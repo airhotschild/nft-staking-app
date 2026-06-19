@@ -14,3 +14,11 @@ contract StakingPart_12 {
     uint256 public constant STEP = 12;
     // Random: 1rmt6k
 }
+// Solidity Module step 13
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+contract StakingPart_13 {
+    uint256 public constant STEP = 13;
+    // Random: rdk4is
+}
