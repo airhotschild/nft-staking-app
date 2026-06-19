@@ -22,3 +22,11 @@ contract StakingPart_3 {
     uint256 public constant STEP = 3;
     // Random: bkbj6s
 }
+// Solidity Module step 4
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+contract StakingPart_4 {
+    uint256 public constant STEP = 4;
+    // Random: nzvuo
+}
